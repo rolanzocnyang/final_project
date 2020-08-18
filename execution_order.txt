@@ -1,0 +1,8 @@
+執行順序
+google_comments_crawler_20200729
+preprocess_pn_20200729
+first_20200729
+train_20200729
+final_test
+除了SERVER以外所有PY檔都在這個資料夾執行
+爬蟲產生一個資料夾 之後產生的資料都要想辦法放進這個資料夾喔
